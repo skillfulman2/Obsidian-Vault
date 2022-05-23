@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "823f28e6f816079a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd120b9ece0eab1a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c370c6624014ce37",
+    "type": "split",
+    "children": [
+      {
+        "id": "f08ba8285ddae74f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "378cbe9262924ba8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "48e68c927a44e72b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "75c59b4c2711968f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fee2f7c92b93ddeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62dac1e4335eda9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fd120b9ece0eab1a",
+  "lastOpenFiles": [
+    "README.md",
+    "Lawn Mower/Carburetor/Remove plastic engine housing.md",
+    "Lawn Mower/Carburetor/Remove air intake cover and housing.md",
+    "Lawn Mower/Carburetor/Clean Carburetor.md",
+    "Images/IMG_6991.md",
+    "Lawn Mower/Images/IMG_6994.jpg",
+    "Lawn Mower/Images/IMG_6992.jpg",
+    "Lawn Mower/Images/IMG_6991.jpg"
+  ]
+}
